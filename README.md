@@ -11,4 +11,5 @@ The functions include:
   6. Displaying all the existing records
   7. Exporting the existing records
   8. Exit 
-Technology used- Pandas, MySQL, Python, Tkinter(GUI)
+
+  Technology used- Pandas, MySQL, Python, Tkinter(GUI)
