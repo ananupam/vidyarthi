@@ -1,4 +1,4 @@
-# Vidyarathi(A Student Management desktop)
+# Vidyarathi(A Student Management desktop app)
 * Created a student management system that consists of basic functions like adding, updating, searching, and removing the details of a student.
 * It can also be used obtain details of all the students at a single time and/or to export the data.
 * Used Tkinter(Python based GUI library) for developing the GUI and MySQL as the database. 
