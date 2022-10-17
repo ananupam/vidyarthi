@@ -13,3 +13,11 @@
   7. Exporting the existing records
 
  ### Technology used- Pandas, MySQL, Python, Tkinter(GUI)
+ 
+ ##PREVIEW 
+ 1. Main page
+<img width="1202" alt="display_1" src="https://user-images.githubusercontent.com/64613642/196264591-ff4930cc-d6cc-4a22-ada3-2f5d6355f3f0.png">
+2. Connecting to the Database
+<img width="1200" alt="display_2" src="https://user-images.githubusercontent.com/64613642/196264633-c232dba4-2cb0-494d-a6d3-9a6cea64b9a2.png">
+3. Adding/Updating the record
+<img width="1198" alt="display_3" src="https://user-images.githubusercontent.com/64613642/196264642-485fdca7-b86e-4fa4-94c8-bb7a33d15ee0.png">
