@@ -14,7 +14,7 @@
 
  ### Technology used- Pandas, MySQL, Python, Tkinter(GUI)
  
- ## PREVIEW 
+ ### PREVIEW 
  1. Main page
 <img width="1202" alt="display_1" src="https://user-images.githubusercontent.com/64613642/196264591-ff4930cc-d6cc-4a22-ada3-2f5d6355f3f0.png">
 2. Connecting to the Database
